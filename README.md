@@ -39,6 +39,10 @@ Publish the website in the given URL.
 
 ## HOMEPAGE:
 
+##OUTPUT:
+
+
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/13fa2cde-0535-44e2-ad8f-b93afdaec9ea" />
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
